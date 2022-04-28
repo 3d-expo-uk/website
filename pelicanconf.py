@@ -9,7 +9,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Lisbon'
 
-DEFAULT_LANG = 'pt'
+DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -37,4 +37,4 @@ PLUGINS = ['related_posts', 'series', 'sitemap', 'tag_cloud', 'assets', 'share_p
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = "themes/hyperspace"
+THEME = "themes/eventually"
