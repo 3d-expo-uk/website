@@ -3,7 +3,7 @@
 
 AUTHOR = 'Nuno Leitao'
 SITENAME = 'Pulsing Minds'
-SITEURL = ''
+SITEURL = 'www.pulsingminds.com'
 
 PATH = 'content'
 
