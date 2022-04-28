@@ -1,5 +1,5 @@
-.. |Netlify Status| image:: https://api.netlify.com/api/v1/badges/66b5fda4-f5fe-4a12-a543-fda87c5a3f25/deploy-status
-   :target: https://app.netlify.com/sites/pulsingminds/deploys)
+.. image:: https://api.netlify.com/api/v1/badges/66b5fda4-f5fe-4a12-a543-fda87c5a3f25/deploy-status
+   :target: https://app.netlify.com/sites/pulsingminds/deploys
 
 
 13 MUST-HAVE SMALL BUSINESS WEBSITE PAGES: DO YOU HAVE THEM ALL?
