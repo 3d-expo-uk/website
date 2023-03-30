@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Nuno Leitao'
-SITENAME = 'Pulsing Minds'
-SITEURL = 'www.pulsingminds.com'
+SITENAME = '3D EXPO'
+SITEURL = '3d-expo.co.uk'
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Lisbon'
+TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
 
