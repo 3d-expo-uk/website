@@ -64,13 +64,8 @@
 	<div id="page">
 	{% include 'include/menu.html' %}
 	<div class="container-wrap">
-		<!-- Caroussel -->
-		{% include 'include/caroussel.html' %}
-		{% include 'include/services.html' %}
-		{% include 'include/3projects.html' %}
-		{% include 'include/stats.html' %}
-		{% include 'include/featuredlatest.html' %}
-
+		{% block content %}
+		{% endblock %}
 	</div><!-- END container-wrap -->
 
 	<div class="container-wrap">
