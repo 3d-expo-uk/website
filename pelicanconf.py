@@ -1,9 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'Nuno Leitao'
+AUTHOR = '3d expo team'
 SITENAME = '3D EXPO'
 SITEURL = '3d-expo.co.uk'
+
+SITETITLE = '3D Expo - Inspiration to create things for enthusiasts'
+
 
 PATH = 'content'
 
