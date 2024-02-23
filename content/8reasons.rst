@@ -23,7 +23,10 @@ industries. In this guide, we're going to outline eight reasons why you
 should use 3D printing for jigs and fixtures, including increases in
 speed and performance, and reductions in time and expenditure.
 
-3D Printed Fixture 1. Cost Reduction Time is money, and the reduction in
+1. Cost Reduction
+=================
+
+Time is money, and the reduction in
 time taken to produce parts by additive manufacturing rather than
 machining automatically saves you money. In addition, instead of
 outsourcing the machining of specialised jigs and fixtures, they can be
