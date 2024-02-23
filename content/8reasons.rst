@@ -1,7 +1,7 @@
-8 REASONS WHY YOU SHOULD USE 3D PRINTING FOR JIGS & FIXTURES
+8 reasons why you should use 3D printing for jigs & features
 ############################################################
 
-:Title: 8 REASONS WHY YOU SHOULD USE 3D PRINTING FOR JIGS & FIXTURES
+:Title: 8 reasons why you should use 3D printing for jigs & features
 :Date: 2024-02-20
 :Category: Boundary Breakers
 :author: Ryan King
@@ -185,5 +185,4 @@ The Benefits Summarised These are some of the many
 reasons why you should use 3D printing for jigs and
 fixtures. They can be summarised as cost,
 convenience, speed, safety and adaptability.
-
 
