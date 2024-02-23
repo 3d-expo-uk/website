@@ -1,0 +1,14 @@
+		<div id="fh5co-work">
+			<div class="row">
+				{% for category, articles in categories %}
+				<div class="col-md-4 text-center animate-box">
+					<a href="{{ SITEURL }}/{{ category.url }}" class="work" style="background-image: url(theme/images/portfolio-1.jpg);">
+						<div class="desc">
+							<h3>{{ category }}</h3>
+							<span>Illustration</span>
+						</div>
+					</a>
+				</div>
+                                {% endfor %}
+			</div>
+		</div>
